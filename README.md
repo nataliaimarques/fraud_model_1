@@ -4,7 +4,9 @@ Note: The model performs well in identifying fraud patterns, but threshold tunin
 A hybrid strategy (review + blocking) is recommended for real-world deployment.
 
 Tools:
-Data exploration
+
+Data exploration;
+
 Handling imbalanced data;
 
 Logistic regression model;
@@ -12,6 +14,7 @@ Logistic regression model;
 Threshold tuning;
 
 Findings:
+
 High recall (~83%);
 
 Precision improved from 0.07 to 0.40;
